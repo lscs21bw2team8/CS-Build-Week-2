@@ -25,7 +25,7 @@ def reverse_dir(dir):
     elif dir == "w":
         return "e"
 
-token = "Token 6152f1225d67503125a30b9481a1c36754ecf0a3"
+token = "Token "
 
 # api-endpoint
 init = "https://lambda-treasure-hunt.herokuapp.com/api/adv/init/"
